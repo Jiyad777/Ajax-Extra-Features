@@ -56,7 +56,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/A3isxh?referralCode=RDLb1R)
 <summary>Deploy To Heroku</summary>
 <br>
 <p>
